@@ -1,0 +1,6 @@
+@Opplat.MultiTenant.Example_HostAddress = http://localhost:5072
+
+GET {{Opplat.MultiTenant.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
